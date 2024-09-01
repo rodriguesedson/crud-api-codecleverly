@@ -2,7 +2,7 @@
   "name": "crud-api-codecleverly",
   "version": "1.0.0",
   "description": "CRUD API following CodeCleverly tutorial",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "scripts": "node ./src/index.js",
